@@ -1,1 +1,3 @@
-print("Hello from binder")
+import numpy
+
+print(numpy.random.rand())
